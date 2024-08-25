@@ -1,0 +1,14 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\bin\Debug\net8.0\Saludar.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\bin\Debug\net8.0\Saludar.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\bin\Debug\net8.0\Saludar.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\bin\Debug\net8.0\Saludar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\bin\Debug\net8.0\Saludar.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\refint\Saludar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\Saludar.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\Saludar\Saludar\obj\Debug\net8.0\ref\Saludar.dll

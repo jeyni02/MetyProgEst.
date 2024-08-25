@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HomeLap\\Downloads\\19 y 23 del 08\\MayorDeTresNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE57411E-7D1C-40E2-A69C-B63DB97EEAD5}|MayorDeTresNumeros\\MayorDeTresNumeros.csproj|c:\\users\\homelap\\downloads\\19 y 23 del 08\\mayordetresnumeros\\mayordetresnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE57411E-7D1C-40E2-A69C-B63DB97EEAD5}|MayorDeTresNumeros\\MayorDeTresNumeros.csproj|solutionrelative:mayordetresnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HomeLap\\Downloads\\19 y 23 del 08\\MayorDeTresNumeros\\MayorDeTresNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "MayorDeTresNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\HomeLap\\Downloads\\19 y 23 del 08\\MayorDeTresNumeros\\MayorDeTresNumeros\\Program.cs",
+              "RelativeToolTip": "MayorDeTresNumeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:07:22.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\net8.0\MayorDeTresNumeros.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\refint\MayorDeTresNumeros.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\MayorDeTresNumeros.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\net8.0\ref\MayorDeTresNumeros.dll
