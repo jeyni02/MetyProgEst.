@@ -1,0 +1,15 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\bin\Debug\net8.0\CuboDeUnNumero.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\bin\Debug\net8.0\CuboDeUnNumero.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\bin\Debug\net8.0\CuboDeUnNumero.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\bin\Debug\net8.0\CuboDeUnNumero.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\bin\Debug\net8.0\CuboDeUnNumero.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.sourcelink.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\refint\CuboDeUnNumero.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\CuboDeUnNumero.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\CuboDeUnNumero\CuboDeUnNumero\obj\Debug\net8.0\ref\CuboDeUnNumero.dll
