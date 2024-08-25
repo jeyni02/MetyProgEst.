@@ -1,0 +1,15 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\bin\Debug\net8.0\MontoAPagar.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\bin\Debug\net8.0\MontoAPagar.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\bin\Debug\net8.0\MontoAPagar.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\bin\Debug\net8.0\MontoAPagar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\bin\Debug\net8.0\MontoAPagar.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.sourcelink.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\refint\MontoAPagar.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\MontoAPagar.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\MontoAPagar\MontoAPagar\obj\Debug\net8.0\ref\MontoAPagar.dll
