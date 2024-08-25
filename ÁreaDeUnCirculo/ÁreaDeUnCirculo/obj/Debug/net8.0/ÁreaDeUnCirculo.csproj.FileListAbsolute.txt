@@ -1,0 +1,15 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\bin\Debug\net8.0\ÁreaDeUnCirculo.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\bin\Debug\net8.0\ÁreaDeUnCirculo.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\bin\Debug\net8.0\ÁreaDeUnCirculo.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\bin\Debug\net8.0\ÁreaDeUnCirculo.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\bin\Debug\net8.0\ÁreaDeUnCirculo.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.sourcelink.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\refint\ÁreaDeUnCirculo.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ÁreaDeUnCirculo.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\ÁreaDeUnCirculo\ÁreaDeUnCirculo\obj\Debug\net8.0\ref\ÁreaDeUnCirculo.dll
