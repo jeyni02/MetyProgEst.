@@ -1,0 +1,15 @@
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.AssemblyInfoInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.AssemblyInfo.cs
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.sourcelink.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.exe
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.deps.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.runtimeconfig.json
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\bin\Debug\net8.0\RaizCuadrada.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\refint\RaizCuadrada.dll
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.pdb
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\RaizCuadrada.genruntimeconfig.cache
+C:\Users\HomeLap\Downloads\19 y 23 del 08\RaizCuadrada\RaizCuadrada\obj\Debug\net8.0\ref\RaizCuadrada.dll
